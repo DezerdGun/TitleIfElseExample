@@ -16,5 +16,7 @@
 #     print("FALSE")
 
 # dz
-
+#1.
 print("home work")
+#2.
+print("I did second home work")
