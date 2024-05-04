@@ -8,9 +8,13 @@
 
 # class work
 
-tst = 5
+# tst = 5
+#
+# if tst > 0:
+#     print("True")
+# else:
+#     print("FALSE")
 
-if tst > 0:
-    print("True")
-else:
-    print("FALSE")
+# dz
+
+print("home work")
